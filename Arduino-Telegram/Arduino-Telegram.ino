@@ -4,15 +4,15 @@
 #include <ArduinoJson.h>
 
 // Wifi network station credentials
-#define WIFI_SSID "Totalplay-2.4G-a380"
-#define WIFI_PASSWORD "Android12358"
+#define WIFI_SSID "xxxxxxxxxxxxxxxxx"
+#define WIFI_PASSWORD "xxxxxxxxxxxx"
 // Telegram BOT Token (Get from Botfather)
-#define BOT_TOKEN "6144682695:AAE9qKvq0CbKWXJz-EBuB_V8g90ch0qQQ1M"
+#define BOT_TOKEN "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 // Use @myidbot (IDBot) to find out the chat ID of an individual or a group
 // Also note that you need to click "start" on a bot before it can
 // message you
-#define CHAT_ID "-1001728925079"
+#define CHAT_ID "xxxxxxxxxxx"
 
 X509List cert(TELEGRAM_CERTIFICATE_ROOT);
 WiFiClientSecure secured_client;
