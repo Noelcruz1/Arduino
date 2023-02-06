@@ -12,6 +12,4 @@ Librerias:
 <UniversalTelegramBot.h>
 <ArduinoJson.h>
 
-6144682695:AAE9qKvq0CbKWXJz-EBuB_V8g90ch0qQQ1M
 
--1001728925079
